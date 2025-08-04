@@ -27,6 +27,3 @@
 
 **📊 Visualization**
 - Design charts and graphs to communicate insights effectively.
-- Use thoughtful color coding, layout alignment, and labeling to emphasize trends and patterns.
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
